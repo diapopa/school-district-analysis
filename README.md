@@ -6,11 +6,11 @@ The % Passing values have all declined. % Passing Math declined (22) points from
 
 District Summary Module 
 --
-![](images/district_summary_mod.png)
+![](Images/district_summary_mod.png)
 --
 District Summary Challenge
 --
-![](images/district_summary_cha.png)
+![](Images/district_summary_cha.png)
 --
 2.	How is the school summary affected?
 
