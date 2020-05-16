@@ -9,7 +9,9 @@ District Summary Module
 ![](images/district_summary_mod.png)
 
 District Summary Challenge
- 
+
+![](images/district_summary_cha.png)
+
 2.	How is the school summary affected?
 
 The % Passing values have all declined
